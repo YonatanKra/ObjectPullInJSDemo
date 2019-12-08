@@ -9,6 +9,6 @@ To see the example without an object pool: `git checkout step_1`
 To see the example with an object pool: `git checkout step_2`
 
 ## Notes
-The slides of the talk: http://bit.ly/confrontJS-objectpool
-More blog posts about performance in JS: https://bit.ly/yk_blog
+* The slides of the talk: http://bit.ly/confrontJS-objectpool
+* More blog posts about performance in JS: https://bit.ly/yk_blog
 
